@@ -1,3 +1,6 @@
+¡Estoy feliz de hacer mi primera edición!
+
+
 # NumPy Pixi packages
 
 This directory contains definitions for [Pixi
